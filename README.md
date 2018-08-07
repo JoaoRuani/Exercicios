@@ -1,2 +1,2 @@
 # Exercicios
-Clique em upload e envie seus códigos
+Selecione o seu Branch, clique em upload e envie seus códigos
